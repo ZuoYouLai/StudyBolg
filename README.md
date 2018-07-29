@@ -7,5 +7,5 @@
 
 [小胖子的博客](https://blog.csdn.net/ying_xu)
 
-[phantomes](https://blog.csdn.net/phantomes):spring jvm many java info
+[phantomes](https://blog.csdn.net/phantomes)   :  博客知识有(spring jvm many java info)
 
