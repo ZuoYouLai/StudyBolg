@@ -9,3 +9,5 @@
 
 [phantomes](https://blog.csdn.net/phantomes)   :  博客知识有(spring jvm many java info)
 
+[骏马金龙](https://www.cnblogs.com/f-ck-need-u/)  :  运维 架构 (Linux mysql  非常的详细)
+
