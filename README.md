@@ -14,3 +14,5 @@
 [Tank博客](http://www.cnblogs.com/tankaixiong/)  :  Java,redis集成
 
 [Alpha博客](https://blog.csdn.net/vking_wang)  :  Java SE 基础部分 很强
+
+[Vamei](http://www.cnblogs.com/vamei/) :  python快速学习
