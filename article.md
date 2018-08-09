@@ -7,3 +7,5 @@
  [guava collection :https://blog.csdn.net/vking_wang/article/details/17613451](https://blog.csdn.net/vking_wang/article/details/17613451)
  
  [guava joinner,spliter :https://blog.csdn.net/vking_wang/article/details/17613479](https://blog.csdn.net/vking_wang/article/details/17613479)
+ 
+ [guava 应用]（http://www.cnblogs.com/huang0925/p/3160094.html）
