@@ -8,6 +8,9 @@
  
  [guava joinner,spliter :https://blog.csdn.net/vking_wang/article/details/17613479](https://blog.csdn.net/vking_wang/article/details/17613479)
  
- [guava 应用]（http://www.cnblogs.com/huang0925/p/3160094.html）
+ [guava collections 应用]（http://www.cnblogs.com/huang0925/p/3160094.html）
+ 
+ [guava Thread 应用] （https://www.cnblogs.com/jun-ma/p/4846839.html）
+ 
  
  [库存扣减  https://www.cnblogs.com/jianzh5/p/7508320.html](https://www.cnblogs.com/jianzh5/p/7508320.html)
