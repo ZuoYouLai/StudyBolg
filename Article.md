@@ -10,4 +10,4 @@
  
  [guava 应用]（http://www.cnblogs.com/huang0925/p/3160094.html）
  
- [库存扣减](https://www.cnblogs.com/jianzh5/p/7508320.html)
+ [库存扣减  https://www.cnblogs.com/jianzh5/p/7508320.html](https://www.cnblogs.com/jianzh5/p/7508320.html)
