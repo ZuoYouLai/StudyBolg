@@ -12,9 +12,9 @@
  
  [guava Thread 应用] （https://www.cnblogs.com/jun-ma/p/4846839.html）
                      
-                     （https://blog.csdn.net/pistolove/article/details/51428562）
+  （https://blog.csdn.net/pistolove/article/details/51428562）
                      
-                     （https://www.cnblogs.com/peida/p/Guava.html）
+  （https://www.cnblogs.com/peida/p/Guava.html）
  
  
  [库存扣减  https://www.cnblogs.com/jianzh5/p/7508320.html](https://www.cnblogs.com/jianzh5/p/7508320.html)
