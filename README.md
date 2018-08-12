@@ -23,6 +23,8 @@
 
 [张坚](https://www.cnblogs.com/jianzh5/)  : 多线程的设计模式 并发问题
 
+[皮斯特劳沃 Csdn专家](https://blog.csdn.net/pistolove)  : java面试 多个方面俱到（看到那个面试罗列出来的 需要多多学习）
+
        
       
       
