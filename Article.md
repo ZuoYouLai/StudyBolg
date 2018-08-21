@@ -18,3 +18,7 @@
  
  
  [库存扣减  https://www.cnblogs.com/jianzh5/p/7508320.html](https://www.cnblogs.com/jianzh5/p/7508320.html)
+
+ [redis 并发+锁 https://www.cnblogs.com/gonjan-blog/p/8360528.html] (https://www.cnblogs.com/gonjan-blog/p/8360528.html)
+ 
+ [redis 分布式锁  https://www.cnblogs.com/linjiqin/p/8003838.html] (https://www.cnblogs.com/linjiqin/p/8003838.html)
