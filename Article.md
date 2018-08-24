@@ -22,3 +22,5 @@
  [redis 并发+锁 https://www.cnblogs.com/gonjan-blog/p/8360528.html] (https://www.cnblogs.com/gonjan-blog/p/8360528.html)
  
  [redis 分布式锁  https://www.cnblogs.com/linjiqin/p/8003838.html] (https://www.cnblogs.com/linjiqin/p/8003838.html)
+
+ [Netty 简单集成spring  https://www.cnblogs.com/ggwow/p/7994213.html] (https://www.cnblogs.com/ggwow/p/7994213.html)
