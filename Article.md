@@ -24,3 +24,5 @@
  [redis 分布式锁  https://www.cnblogs.com/linjiqin/p/8003838.html] (https://www.cnblogs.com/linjiqin/p/8003838.html)
 
  [Netty 简单集成spring  https://www.cnblogs.com/ggwow/p/7994213.html] 
+ 
+ [泛型方法类写法  https://www.cnblogs.com/lwbqqyumidi/p/3837629.html]
