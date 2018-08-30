@@ -25,7 +25,10 @@
 
 [皮斯特劳沃 Csdn专家](https://blog.csdn.net/pistolove)  : java面试 多个方面俱到（看到那个面试罗列出来的 需要多多学习）
 
-[返回主页 五月的仓颉](https://www.cnblogs.com/xrq730/) : 阿里人(四年都可以梦归阿里 多多学习)
+[五月的仓颉](https://www.cnblogs.com/xrq730/) : 阿里人(四年都可以梦归阿里 多多学习)
+
+[很全面的博客 https://crossoverjie.top/] : 干货满满,非常值得学习
+
 
        
       
