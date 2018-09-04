@@ -26,3 +26,5 @@
  [Netty 简单集成spring  https://www.cnblogs.com/ggwow/p/7994213.html] 
  
  [泛型方法类写法  https://www.cnblogs.com/lwbqqyumidi/p/3837629.html]
+ 
+ [Cacheable注解的文章  https://www.cnblogs.com/fashflying/p/6908028.html]
