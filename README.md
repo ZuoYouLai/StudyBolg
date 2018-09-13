@@ -31,6 +31,7 @@
 
 [One Team 博客  http://www.hchstudio.cn/] : 多个技术要点
 
+[颇忒脱  https://segmentfault.com/blog/chanjar] : 高级java知识 教师
        
       
       
