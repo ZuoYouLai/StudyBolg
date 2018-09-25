@@ -28,3 +28,5 @@
  [泛型方法类写法  https://www.cnblogs.com/lwbqqyumidi/p/3837629.html]
  
  [Cacheable注解的文章  https://www.cnblogs.com/fashflying/p/6908028.html]
+
+ [来自阿里巴巴java性能代码测试文章  https://yq.aliyun.com/articles/69520?utm_content=m_10360]
