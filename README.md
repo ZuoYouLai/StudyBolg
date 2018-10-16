@@ -36,6 +36,8 @@
 [https://blog.csdn.net/bjo2008cn] :  里面都是高级后端知识 虽较少的篇章   
 
 [老卫  https://waylau.com/] : 篇幅较多,牵扯范围较广
+
+[java高级文章 : https://ericfu.me/]
       
       
         
