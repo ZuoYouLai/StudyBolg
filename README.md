@@ -4,6 +4,9 @@
 ----|-----
 高级java开发 | http://hongjiang.info/
 大数据方面 | https://www.cnblogs.com/xing901022
+运维 架构 (Linux mysql  非常的详细) | https://www.cnblogs.com/f-ck-need-u/
+很全面的博客 | https://crossoverjie.top/
+
 
 [涵s](http://www.cnblogs.com/han-1034683568)
 
@@ -14,8 +17,6 @@
 [小胖子的博客](https://blog.csdn.net/ying_xu)
 
 [phantomes](https://blog.csdn.net/phantomes)   :  博客知识有(spring jvm many java info)
-
-[骏马金龙](https://www.cnblogs.com/f-ck-need-u/)  :  运维 架构 (Linux mysql  非常的详细)
 
 [Tank博客](http://www.cnblogs.com/tankaixiong/)  :  Java,redis集成
 
@@ -33,7 +34,6 @@
 
 [五月的仓颉](https://www.cnblogs.com/xrq730/) : 阿里人(四年都可以梦归阿里 多多学习)
 
-[很全面的博客 https://crossoverjie.top/] : 干货满满,非常值得学习
 
 [One Team 博客  http://www.hchstudio.cn/] : 多个技术要点
 
