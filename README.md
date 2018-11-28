@@ -1,9 +1,9 @@
 
 ### 博客汇集:
-作者方向 / 链接
-----/-----
-高级java开发 / http://hongjiang.info/
-大数据方面 / https://www.cnblogs.com/xing901022
+作者方向 | 链接
+----|-----
+高级java开发 | http://hongjiang.info/
+大数据方面 | https://www.cnblogs.com/xing901022
 
 [涵s](http://www.cnblogs.com/han-1034683568)
 
@@ -53,5 +53,3 @@
 [prestigeding(核心的开发内容  架构源码说明) https://blog.csdn.net/prestigeding]     
 
 
-[高级java开发  ]
-       
