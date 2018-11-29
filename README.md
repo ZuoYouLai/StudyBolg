@@ -6,11 +6,12 @@
 大数据方面 | https://www.cnblogs.com/xing901022
 运维 架构 (Linux mysql  非常的详细) | https://www.cnblogs.com/f-ck-need-u/
 很全面的博客 | https://crossoverjie.top/
+纯洁的微笑（架构 很全的springboot + cloud 文章）|http://www.ityouknow.com/
+屈定's Blog | https://mrdear.cn/
 
 
 [涵s](http://www.cnblogs.com/han-1034683568)
 
-[屈定's Blog](https://mrdear.cn/)
 
 [universe_ant的博客](https://blog.csdn.net/universe_ant)
 
