@@ -8,6 +8,9 @@
 很全面的博客 | https://crossoverjie.top/
 纯洁的微笑（架构 很全的springboot + cloud 文章）|http://www.ityouknow.com/
 屈定's Blog | https://mrdear.cn/
+机器学习的笔记 | https://feisky.xyz/machine-learning/
+[Tank博客]Java,redis集成 | http://www.cnblogs.com/tankaixiong/
+Java SE 基础部分 很强 | https://blog.csdn.net/vking_wang
 
 
 [涵s](http://www.cnblogs.com/han-1034683568)
@@ -18,10 +21,6 @@
 [小胖子的博客](https://blog.csdn.net/ying_xu)
 
 [phantomes](https://blog.csdn.net/phantomes)   :  博客知识有(spring jvm many java info)
-
-[Tank博客](http://www.cnblogs.com/tankaixiong/)  :  Java,redis集成
-
-[Alpha博客](https://blog.csdn.net/vking_wang)  :  Java SE 基础部分 很强
 
 [Vamei](http://www.cnblogs.com/vamei/) :  python快速学习
 
