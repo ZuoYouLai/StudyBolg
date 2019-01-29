@@ -11,6 +11,7 @@
 机器学习的笔记 | https://feisky.xyz/machine-learning/
 [Tank博客]Java,redis集成 | http://www.cnblogs.com/tankaixiong/
 Java SE 基础部分 很强 | https://blog.csdn.net/vking_wang
+写的蛮好的 | https://www.cnblogs.com/kouryoushine
 
 
 [涵s](http://www.cnblogs.com/han-1034683568)
