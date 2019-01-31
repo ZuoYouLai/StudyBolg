@@ -2,6 +2,7 @@
 ### 博客汇集:
 作者方向 | 链接
 ----|-----
+左耳听风 | https://coolshell.cn/
 高级java开发 | http://hongjiang.info/
 大数据方面 | https://www.cnblogs.com/xing901022
 运维 架构 (Linux mysql  非常的详细) | https://www.cnblogs.com/f-ck-need-u/
